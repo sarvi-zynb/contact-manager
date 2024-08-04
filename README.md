@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-this project is deployed on vercel: https://contact-manager-wine.vercel.app/
+*this project is deployed on vercel:* https://contact-manager-wine.vercel.app/
 
 
 
