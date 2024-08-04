@@ -1,0 +1,8 @@
+export const PURPLE = '#7E57C2'
+export const BLUE = '#6AB1E9'
+export const GREEN = '#2AB248'
+export const BLACK = '#13242C'
+export const NANY_BLUE = '#3B6067'
+export const GRAY = '#69727D'
+export const PALE_GRAY = '#D9D9D9'
+export const WHITE = '#EBECF1'

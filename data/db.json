@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "عنوان ۱",
+      "time": "12 ساعت",
+      "price": 220000,
+      "imgUrl": "https://frontendi.com/wp-content/uploads/2023/12/Ant-Design-Course-300x156.webp"
+    },
+    {
+      "id": "2",
+      "title": "عنوان ۲",
+      "time": "8 ساعت",
+      "price": 150000,
+      "imgUrl": "https://frontendi.com/wp-content/uploads/2023/12/Ant-Design-Course-300x156.webp"
+    },
+    {
+      "id": "3",
+      "title": "عنوان ۳",
+      "time": "20 ساعت",
+      "price": 390000,
+      "imgUrl": "https://frontendi.com/wp-content/uploads/2023/12/Ant-Design-Course-300x156.webp"
+    }
+  ]
+}

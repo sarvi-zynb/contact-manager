@@ -1,0 +1,5 @@
+{
+    "users": "http://localhost:8000/users",
+    "products": "http://localhost:8000/products",
+    "blogs": "http://localhost:8000/blogs"
+}
